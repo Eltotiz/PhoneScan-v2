@@ -1,3 +1,4 @@
+![img](https://cdn.discordapp.com/attachments/912812006095077396/956699434463424552/3_sin_titulo_20220324185635.png)
 # PhoneScan-v2
 PhoneScan es una herramienta de OSINT
 que te permite ver la informacion de un numero de telefono.
